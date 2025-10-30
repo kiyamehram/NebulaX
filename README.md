@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://media.istockphoto.com/id/493559700/photo/pray.jpg?s=612x612&w=0&k=20&c=4gtmv5fDs8jIr6uosQAUG21F0xRDbSux0GGQtxrHGcI=" alt="Tk" align="center" width="800"></p>
+  <img src="https://shinzoo.com/wp-content/uploads/2025/08/victorian-scarecrow-03.jpg" alt="Tk" align="center" width="800"></p>
 
 <h1 align="center"> SSH-craker</h1>
 <p align="center">
